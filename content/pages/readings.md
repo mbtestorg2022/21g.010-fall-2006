@@ -34,31 +34,419 @@ Readings by Session
 
 The readings were assigned on the sessions indicated below. Students were expected to read assigned sections prior to the next class session and be prepared to discuss the readings in class.
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction | _Lazarillo de Tormes_ |
-| 2 | _Lazarillo de Tormes_ | Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. pp. 1-170, to letter 82. |
-| 3 | _Les Liaisons Dangereuses_ | Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. pp. 170-255, to letter 114. |
-| 4 |  {{< br >}}{{< br >}} Film: [_Cruel Intentions_](http://www.imdb.com/title/tt0139134/). Directed by Roger Kumble. {{< br >}}{{< br >}}  | Finish Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. |
-| 5 |  {{< br >}}{{< br >}} _Cruel Intentions_ and _Les Liaisons Dangereuses_ {{< br >}}{{< br >}} Teaching Group on _Cruel Intentions_ {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | _Les Liaisons Dangereuses_ (cont.) | Dostoyevsky, Fyodor. _Notes from Underground_. Up to p. 56, chapter 2. |
-| 7 |  {{< br >}}{{< br >}} Film: [_Les Liaisons Dangereuses_](http://www.imdb.com/title/tt0317875/). Directed by Josée Dayan. {{< br >}}{{< br >}}  | Dostoyevsky, Fyodor. _Notes from Underground_. |
-| 8 |  {{< br >}}{{< br >}} _Notes From the Underground_ {{< br >}}{{< br >}} Teaching Group on _Notes From the Underground_ {{< br >}}{{< br >}}  | Finish Dostoyevsky, Fyodor. _Notes from Underground_. |
-| 9 | _Notes From the Underground_ (cont.) | Zola, Émile. _Therese Raquin_. |
-| 10 |  {{< br >}}{{< br >}} _Therese Raquin_ {{< br >}}{{< br >}} Teaching Group on _Therese Raquin_ {{< br >}}{{< br >}}  | Machado de Assis, Joaquim. _Dom Casmurro_. Chapters I-XXV. |
-| 11 | _Dom Casmurro_ | Machado de Assis, Joaquim. _Dom Casmurro_. Chapters XXVI-XCIX. |
-| 12 |  {{< br >}}{{< br >}} Film: [_Doña Flor and her Two Husbands_](http://www.imdb.com/title/tt0077452/). Directed by Bruno Barreto. {{< br >}}{{< br >}}  | Finish Machado de Assis, Joaquim. _Dom Casmurro_ . |
-| 13 |  {{< br >}}{{< br >}} _Metamorphosis_ {{< br >}}{{< br >}} Teaching Group on _Metamorphosis_ {{< br >}}{{< br >}}  | Martin Gaite, Carmen. _The Back Room_. pp. 1-95. |
-| 14 |  {{< br >}}{{< br >}} _The Back Room_ {{< br >}}{{< br >}} Teaching Group on _The Back Room_ {{< br >}}{{< br >}}  | Finish Martin Gaite, Carmen. _The Back Room_. |
-| 15 | _The Back Room_ (cont.) | Puig, Manuel. _Kiss of the Spider Woman_. Up to chapter 4. |
-| 16 |  {{< br >}}{{< br >}} Film: [_Women on the Verge of a Nervous Breakdown_](http://www.imdb.com/title/tt0095675/). Directed by Pedro Almodóvar. {{< br >}}{{< br >}}  | Puig, Manuel. _Kiss of the Spider Woman_. |
-| 17 |  {{< br >}}{{< br >}} _Kiss of the Spider Woman_ {{< br >}}{{< br >}} Teaching Group on _Kiss of the Spider Woman_ {{< br >}}{{< br >}}  | Finish Puig, Manuel. _Kiss of the Spider Woman_. |
-| 18 |  {{< br >}}{{< br >}} Film: [_The Cat Woman_](http://www.imdb.com/title/tt0050235/). Directed by Alfred Shaughnessy. {{< br >}}{{< br >}}  | &nbsp; |
-| 19 |  {{< br >}}{{< br >}} _The Cat Woman_ and _Kiss of the Spider Woman_ {{< br >}}{{< br >}} Teaching Group on the film and the roles of roles of films in _Kiss of the Spider Woman_ {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | _Kiss of the Spider Woman_ (cont.) | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Film: [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/)_._ Directed by Hector Babenco. {{< br >}}{{< br >}}  | Wolf, Christa. _Accident: A Day's News_. |
-| 22 |  {{< br >}}{{< br >}} _Accident: A Day's News_ {{< br >}}{{< br >}} Teaching Group on _Accident: A Day's News_ {{< br >}}{{< br >}}  | &nbsp; |
-| 23 | _Accident: A Day's News_ (cont.) | Calvino, Italo. _Cosmicomics_. |
-| 24 |  {{< br >}}{{< br >}} _Cosmicomics_ {{< br >}}{{< br >}} Teaching Group on _Cosmicomics_ {{< br >}}{{< br >}}  | Finish Calvino, Italo. _Cosmicomics_. |
-| 25 | _Cosmicomics_ (cont.) |  {{< br >}}{{< br >}} Fuentes, Carlos. _Aura_. {{< br >}}{{< br >}}  |
-| 26 | _Aura_ |  {{< br >}}{{< br >}} Finish Fuentes, Carlos. _Aura_. {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+_Lazarillo de Tormes_
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Lazarillo de Tormes_
+{{< tdclose >}}
+{{< tdopen >}}
+Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. pp. 1-170, to letter 82.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Les Liaisons Dangereuses_
+{{< tdclose >}}
+{{< tdopen >}}
+Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_. pp. 170-255, to letter 114.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Cruel Intentions_](http://www.imdb.com/title/tt0139134/). Directed by Roger Kumble.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Choderlos de Laclos, Pierre. _Les Liaisons Dangereuses_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Cruel Intentions_ and _Les Liaisons Dangereuses_
+
+Teaching Group on _Cruel Intentions_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Les Liaisons Dangereuses_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, Fyodor. _Notes from Underground_. Up to p. 56, chapter 2.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Les Liaisons Dangereuses_](http://www.imdb.com/title/tt0317875/). Directed by Josée Dayan.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Dostoyevsky, Fyodor. _Notes from Underground_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Notes From the Underground_
+
+Teaching Group on _Notes From the Underground_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Dostoyevsky, Fyodor. _Notes from Underground_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Notes From the Underground_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Zola, Émile. _Therese Raquin_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Therese Raquin_
+
+Teaching Group on _Therese Raquin_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Machado de Assis, Joaquim. _Dom Casmurro_. Chapters I-XXV.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Dom Casmurro_
+{{< tdclose >}}
+{{< tdopen >}}
+Machado de Assis, Joaquim. _Dom Casmurro_. Chapters XXVI-XCIX.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Doña Flor and her Two Husbands_](http://www.imdb.com/title/tt0077452/). Directed by Bruno Barreto.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Machado de Assis, Joaquim. _Dom Casmurro_ .
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Metamorphosis_
+
+Teaching Group on _Metamorphosis_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Martin Gaite, Carmen. _The Back Room_. pp. 1-95.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Back Room_
+
+Teaching Group on _The Back Room_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Martin Gaite, Carmen. _The Back Room_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_The Back Room_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Puig, Manuel. _Kiss of the Spider Woman_. Up to chapter 4.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Women on the Verge of a Nervous Breakdown_](http://www.imdb.com/title/tt0095675/). Directed by Pedro Almodóvar.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Puig, Manuel. _Kiss of the Spider Woman_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Kiss of the Spider Woman_
+
+Teaching Group on _Kiss of the Spider Woman_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Puig, Manuel. _Kiss of the Spider Woman_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_The Cat Woman_](http://www.imdb.com/title/tt0050235/). Directed by Alfred Shaughnessy.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Cat Woman_ and _Kiss of the Spider Woman_
+
+Teaching Group on the film and the roles of roles of films in _Kiss of the Spider Woman_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Kiss of the Spider Woman_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/)_._ Directed by Hector Babenco.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Wolf, Christa. _Accident: A Day's News_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Accident: A Day's News_
+
+Teaching Group on _Accident: A Day's News_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Accident: A Day's News_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Calvino, Italo. _Cosmicomics_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Cosmicomics_
+
+Teaching Group on _Cosmicomics_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Finish Calvino, Italo. _Cosmicomics_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Cosmicomics_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Fuentes, Carlos. _Aura_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Aura_
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Finish Fuentes, Carlos. _Aura_.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

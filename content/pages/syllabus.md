@@ -34,41 +34,472 @@ Grading
 
 The final grade in the course will be based on the following activities:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Journal Entries | 10% |
-| Oral Presentations | 20% |
-| Class Participation | 20% |
-| Short Papers | 50% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Journal Entries
+{{< tdclose >}}
+{{< tdopen >}}
+10%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Oral Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+20%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Short Papers
+{{< tdclose >}}
+{{< tdopen >}}
+50%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| SES # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | _Lazarillo de Tormes_  | &nbsp; |
-| 3 | _Les Liaisons Dangereuses_ | Response due |
-| 4 |  {{< br >}}{{< br >}} Film: [_Cruel Intentions_](http://www.imdb.com/title/tt0139134/). Directed by Roger Kumble. {{< br >}}{{< br >}}  | &nbsp; |
-| 5 |  {{< br >}}{{< br >}} _Cruel Intentions_ and _Les Liaisons Dangereuses_ {{< br >}}{{< br >}} Teaching Group on _Cruel Intentions_ {{< br >}}{{< br >}}  | &nbsp; |
-| 6 | _Les Liaisons Dangereuses_ (cont.) | &nbsp; |
-| 7 |  {{< br >}}{{< br >}} Film: [_Les Liaisons Dangereuses_](http://www.imdb.com/title/tt0317875/). Directed by Josée Dayan. {{< br >}}{{< br >}}  | First version of first paper due |
-| 8 |  {{< br >}}{{< br >}} _Notes From the Underground_ {{< br >}}{{< br >}} Teaching Group on _Notes From the Underground_ {{< br >}}{{< br >}}  | Write response paper |
-| 9 | _Notes From the Underground_ (cont.) |  {{< br >}}{{< br >}} Response due {{< br >}}{{< br >}} Final version of first paper due 1 day after Ses #9 {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} _Therese Raquin_ {{< br >}}{{< br >}} Teaching Group on _Therese Raquin_ {{< br >}}{{< br >}}  | Response due |
-| 11 | _Dom Casmurro_ | &nbsp; |
-| 12 |  {{< br >}}{{< br >}} Film: [_Doña Flor and her Two Husbands_](http://www.imdb.com/title/tt0077452/). Directed by Bruno Barreto. {{< br >}}{{< br >}}  | Film response due 1 day after Ses #12 |
-| 13 |  {{< br >}}{{< br >}} _Metamorphosis_ {{< br >}}{{< br >}} Teaching Group on _Metamorphosis_ {{< br >}}{{< br >}}  | Final version of secnd paper due 1 day after Ses #13 |
-| 14 |  {{< br >}}{{< br >}} _The Back Room_ {{< br >}}{{< br >}} Teaching Group on _The Back Room_ {{< br >}}{{< br >}}  | &nbsp; |
-| 15 | _The Back Room_ (cont.) | Response due |
-| 16 |  {{< br >}}{{< br >}} Film: [_Women on the Verge of a Nervous Breakdown_](http://www.imdb.com/title/tt0095675/). Directed by Pedro Almodóvar. {{< br >}}{{< br >}}  | Film response due 1 day after Ses #16 |
-| 17 |  {{< br >}}{{< br >}} _Kiss of the Spider Woman_ {{< br >}}{{< br >}} Teaching Group on _Kiss of the Spider Woman_ {{< br >}}{{< br >}}  | &nbsp; |
-| 18 |  {{< br >}}{{< br >}} Film: [_The Cat Woman_](http://www.imdb.com/title/tt0050235/). Directed by Alfred Shaughnessy. {{< br >}}{{< br >}}  | Film response due 2 days after Ses #18 |
-| 19 |  {{< br >}}{{< br >}} _The Cat Woman_ and _Kiss of the Spider Woman_ {{< br >}}{{< br >}} Teaching Group on the film and the roles of films in _Kiss of the Spider Woman_ {{< br >}}{{< br >}}  | &nbsp; |
-| 20 | _Kiss of the Spider Woman_ (cont.) | &nbsp; |
-| 21 |  {{< br >}}{{< br >}} Film: [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/)_._ Directed by Hector Babenco. {{< br >}}{{< br >}}  | Response paper due 1 day after Ses #21 |
-| 22 |  {{< br >}}{{< br >}} _Accident: A Day's News_ {{< br >}}{{< br >}} Teaching Group on _Accident: A Day's News_ {{< br >}}{{< br >}}  | Write response paper |
-| 23 | _Accident: A Day's News _ (cont.) | Response paper due |
-| 24 |  {{< br >}}{{< br >}} _Cosmicomics_ {{< br >}}{{< br >}} Teaching Group on _Cosmicomics_ {{< br >}}{{< br >}}  | Write response paper |
-| 25 | _Cosmicomics_ (cont.)  | Response paper due |
-| 26 | _Aura_ | Third paper due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+_Lazarillo de Tormes_ 
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+_Les Liaisons Dangereuses_
+{{< tdclose >}}
+{{< tdopen >}}
+Response due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Cruel Intentions_](http://www.imdb.com/title/tt0139134/). Directed by Roger Kumble.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Cruel Intentions_ and _Les Liaisons Dangereuses_
+
+Teaching Group on _Cruel Intentions_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+_Les Liaisons Dangereuses_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Les Liaisons Dangereuses_](http://www.imdb.com/title/tt0317875/). Directed by Josée Dayan.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+First version of first paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Notes From the Underground_
+
+Teaching Group on _Notes From the Underground_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Write response paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+_Notes From the Underground_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Response due
+
+Final version of first paper due 1 day after Ses #9
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Therese Raquin_
+
+Teaching Group on _Therese Raquin_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Response due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+_Dom Casmurro_
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Doña Flor and her Two Husbands_](http://www.imdb.com/title/tt0077452/). Directed by Bruno Barreto.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Film response due 1 day after Ses #12
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Metamorphosis_
+
+Teaching Group on _Metamorphosis_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Final version of secnd paper due 1 day after Ses #13
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Back Room_
+
+Teaching Group on _The Back Room_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+_The Back Room_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Response due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Women on the Verge of a Nervous Breakdown_](http://www.imdb.com/title/tt0095675/). Directed by Pedro Almodóvar.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Film response due 1 day after Ses #16
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Kiss of the Spider Woman_
+
+Teaching Group on _Kiss of the Spider Woman_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_The Cat Woman_](http://www.imdb.com/title/tt0050235/). Directed by Alfred Shaughnessy.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Film response due 2 days after Ses #18
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_The Cat Woman_ and _Kiss of the Spider Woman_
+
+Teaching Group on the film and the roles of films in _Kiss of the Spider Woman_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+_Kiss of the Spider Woman_ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Film: [_Kiss of the Spider Woman_](http://www.imdb.com/title/tt0089424/)_._ Directed by Hector Babenco.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due 1 day after Ses #21
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Accident: A Day's News_
+
+Teaching Group on _Accident: A Day's News_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Write response paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+_Accident: A Day's News _ (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+_Cosmicomics_
+
+Teaching Group on _Cosmicomics_
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Write response paper
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+_Cosmicomics_ (cont.) 
+{{< tdclose >}}
+{{< tdopen >}}
+Response paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+_Aura_
+{{< tdclose >}}
+{{< tdopen >}}
+Third paper due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
